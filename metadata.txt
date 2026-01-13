@@ -6,7 +6,5 @@ version=1.0
 author=Kaveh Ghahraman
 email=your.kevingh70@gmail.com
 about=Plugin to automatically navigate through vertices of selected line features
-tracker=https://github.com/yourname/line_vertex_inspector
-repository=https://github.com/yourname/line_vertex_inspector
 category=Vector
 tags=vector,line,inspection,quality control
